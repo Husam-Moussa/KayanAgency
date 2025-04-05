@@ -38,8 +38,8 @@ const Home = () => {
             <nav>
               <div className="flex justify-between items-center">
                 <img
-                  src="Images/KAYAN LOGO.png"
-                  alt="KAYAN Logo"
+                  src="/Images/Kayan-Logo.png"
+                  alt="KAYAN LOGO"
                   className="w-3xs"
                   data-aos="fade-right"
                 />
