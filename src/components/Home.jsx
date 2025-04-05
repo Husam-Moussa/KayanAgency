@@ -38,7 +38,7 @@ const Home = () => {
             <nav>
               <div className="flex justify-between items-center">
                 <img
-                  src="KAYAN Logo.png"
+                  src="KAYAN LOGO.png"
                   alt="KAYAN Logo"
                   className="w-3xs"
                   data-aos="fade-right"
@@ -129,7 +129,7 @@ const Home = () => {
             <button className='mt-5 bg-orange-500 text-white p-4 w-sm cursor-pointer duration-300 hover:opacity-45' data-aos="fade-right">Get started now</button>
           </Link>
         </div>
-        <img src="/Images/OFFICE.jpg" alt="" className='w-full sm:w-xl mt-12 sm:mt-0 sm:mr-12' data-aos="fade-in"/>
+        <img src="Images/OFFICE.jpg" alt="" className='w-full sm:w-xl mt-12 sm:mt-0 sm:mr-12' data-aos="fade-in"/>
       </section>
       <section className="bg-[#0D1117] text-white p-16 flex flex-col justify-center items-center text-3xl font-medium">
         <h2 className="9xl p-5" data-aos="fade-up">Our Services</h2>
@@ -137,7 +137,7 @@ const Home = () => {
         {/* Service 1 */}
         <div className="flex flex-row items-center mt-10 gap-14 text-orange-500">
           <div className="relative group">
-            <img src="/Images/Service1.jpg" alt="Development" className="w-sm" />
+            <img src="Images/Service1.jpg" alt="Development" className="w-sm" />
             {/* Hover effect container */}
             <div className="absolute inset-0 flex justify-center items-center bg-orange-500 opacity-0 group-hover:opacity-80 transition-opacity duration-300">
               <Link to="/contact"><button className="px-6 py-2 bg-white cursor-pointer text-orange-500 rounded-full">
@@ -147,7 +147,7 @@ const Home = () => {
           </div>
 
           <div className="relative group">
-            <img src="/Images/Service2.jpg" alt="Teaching" className="w-sm" />
+            <img src="Images/Service2.jpg" alt="Teaching" className="w-sm" />
             {/* Hover effect container */}
             <div className="absolute inset-0 flex justify-center items-center bg-orange-500 opacity-0 group-hover:opacity-80 transition-opacity duration-300">
             <Link to="/contact"><button className="px-6 py-2 bg-white cursor-pointer text-orange-500 rounded-full">
