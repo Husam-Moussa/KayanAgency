@@ -34,7 +34,7 @@ const Contact = () => {
             <nav>
               <div className="flex justify-between items-center">
                 <img
-                  src="KAYAN Logo.png"
+                  src="/Images/KAYAN Logo.png"
                   alt="KAYAN Logo"
                   className="w-3xs"
                   data-aos="fade-right"
@@ -128,7 +128,7 @@ const Contact = () => {
             <section className="bg-gray-600 text-white flex flex-row font-medium mt-10 p-10 gap-15">
                        
                           <img
-                            src="KAYAN LOGO.PNG"
+                            src="/Images/KAYAN LOGO.PNG"
                             alt="Kayan Logo"
                             className="w-3xs p-4"data-aos="fade-in"
                           />
