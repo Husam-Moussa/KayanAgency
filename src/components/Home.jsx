@@ -129,7 +129,7 @@ const Home = () => {
             <button className='mt-5 bg-orange-500 text-white p-4 w-sm cursor-pointer duration-300 hover:opacity-45' data-aos="fade-right">Get started now</button>
           </Link>
         </div>
-        <img src="Images/OFFICE.jpg" alt="" className='w-full sm:w-xl mt-12 sm:mt-0 sm:mr-12' data-aos="fade-in"/>
+        <img src="/OFFICE.jpg" alt="" className='w-full sm:w-xl mt-12 sm:mt-0 sm:mr-12' data-aos="fade-in"/>
       </section>
       <section className="bg-[#0D1117] text-white p-16 flex flex-col justify-center items-center text-3xl font-medium">
         <h2 className="9xl p-5" data-aos="fade-up">Our Services</h2>
