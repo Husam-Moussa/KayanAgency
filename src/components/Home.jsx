@@ -38,7 +38,7 @@ const Home = () => {
             <nav>
               <div className="flex justify-between items-center">
                 <img
-                  src="/KAYAN LOGO.png"
+                  src="/Images/KAYAN LOGO.png"
                   alt="KAYAN Logo"
                   className="w-3xs"
                   data-aos="fade-right"
@@ -137,7 +137,7 @@ const Home = () => {
         {/* Service 1 */}
         <div className="flex flex-row items-center mt-10 gap-14 text-orange-500">
           <div className="relative group">
-            <img src="Images/Service1.jpg" alt="Development" className="w-sm" />
+            <img src="/Images/Service1.jpg" alt="Development" className="w-sm" />
             {/* Hover effect container */}
             <div className="absolute inset-0 flex justify-center items-center bg-orange-500 opacity-0 group-hover:opacity-80 transition-opacity duration-300">
               <Link to="/contact"><button className="px-6 py-2 bg-white cursor-pointer text-orange-500 rounded-full">
@@ -147,7 +147,7 @@ const Home = () => {
           </div>
 
           <div className="relative group">
-            <img src="Images/Service2.jpg" alt="Teaching" className="w-sm" />
+            <img src="/Images/Service2.jpg" alt="Teaching" className="w-sm" />
             {/* Hover effect container */}
             <div className="absolute inset-0 flex justify-center items-center bg-orange-500 opacity-0 group-hover:opacity-80 transition-opacity duration-300">
             <Link to="/contact"><button className="px-6 py-2 bg-white cursor-pointer text-orange-500 rounded-full">
@@ -162,7 +162,7 @@ const Home = () => {
       {/* Footer Section */}
       <section className="bg-gray-600 text-white flex flex-col sm:flex-row font-medium mt-10 p-10 gap-15">
         <img
-          src="KAYAN LOGO.PNG"
+          src="/Images/KAYAN LOGO.PNG"
           alt="Kayan Logo"
           className="w-3xs p-4" data-aos="fade-in"
         />
