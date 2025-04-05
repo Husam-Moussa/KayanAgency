@@ -36,7 +36,7 @@ const About = () => {
         <nav>
           <div className="flex justify-between items-center">
             <img
-              src="KAYAN Logo.png"
+              src="/Images/KAYAN Logo.png"
               alt="KAYAN Logo"
               className="w-3xs"
               data-aos="fade-right"
@@ -65,7 +65,7 @@ const About = () => {
 
       <section className="bg-white text-[#0D1117] flex flex-row justify-center items-center text-3xl font-medium gap-7 p-10" data-aos="fade-up">
         <div className="w-sm">
-          <img src="Logo.png" alt="Logo" className="w-sm mt-10" />
+          <img src="/Images/Logo.png" alt="Logo" className="w-sm mt-10" />
         </div>
         <div className="flex flex-col">
           <p className="text-orange-500 text-xl">About our company</p>
@@ -102,7 +102,7 @@ const About = () => {
 
         {/* Founder Image with hover effect */}
         <div className="relative group">
-          <img src="ME.jpg" alt="Founder" className="w-sm transition-all duration-500" />
+          <img src="/Images/ME.jpg" alt="Founder" className="w-sm transition-all duration-500" />
           <div className="absolute inset-0 bg-orange-500 opacity-0 group-hover:opacity-80 transition-all duration-500 z-10"></div>
 
           {/* Social Icons */}
@@ -121,7 +121,7 @@ const About = () => {
       <section className="bg-gray-600 text-white flex flex-row font-medium mt-10 p-10 gap-15">
              
                 <img
-                  src="KAYAN LOGO.PNG"
+                  src="/Images/KAYAN LOGO.PNG"
                   alt="Kayan Logo"
                   className="w-3xs p-4"data-aos="fade-in"
                 />
