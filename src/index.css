@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*{
+  font-family: 'Bebas Neue',sans-serif;
+  scroll-behavior: smooth;
+overflow-x: hidden;
+}
+
+.active-link {
+  color: #f97316; /* orange-500 */
+
+}
