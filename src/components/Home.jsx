@@ -182,7 +182,7 @@ const Home = () => {
           <div className="flex flex-col items-center text-gray-700">
             <MdOutlineEmail className="text-blue-950 text-7xl mb-4" />
             <p className="text-lg sm:text-2xl">Email</p>
-            <p className="text-lg sm:text-lg">lgcontact@cobuild.dev</p>
+            <p className="text-lg sm:text-lg">husammusa468@gmail.com</p>
           </div>
           <div className="flex flex-col items-center text-gray-700">
             <IoPhonePortraitOutline className="text-blue-950 text-7xl mb-4" />
